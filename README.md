@@ -1,3 +1,3 @@
-## Currency Converter
+## Vue-3 Template
 
-Basic currency converter using Frankfurter API
+Basic template with vue-router, fontawesome, bootstrap, and axios installed!
